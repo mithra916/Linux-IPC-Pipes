@@ -39,7 +39,9 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
+![Screenshot from 2024-04-28 11-43-31](https://github.com/mithra916/Linux-IPC-Pipes/assets/149986612/1f8310aa-0e3d-4355-bb4d-2a2bece2013b)
 
+![Screenshot from 2024-04-28 11-43-56](https://github.com/mithra916/Linux-IPC-Pipes/assets/149986612/180b7b72-ef56-48a5-a53c-5bd6e8e3985a)
 
 # RESULT:
 The program is executed successfully.
