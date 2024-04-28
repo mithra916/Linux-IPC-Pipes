@@ -30,6 +30,7 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
+![Screenshot from 2024-04-28 12-48-56](https://github.com/mithra916/Linux-IPC-Pipes/assets/149986612/6ea72a46-e55f-4951-98a6-c271e4f467a1)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
