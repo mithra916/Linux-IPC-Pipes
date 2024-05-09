@@ -1,6 +1,8 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 # Ex03-Linux IPC - Pipes
+# Developed by:LOGA MITHRA.R
+# Register number:212223100027
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
 # DESIGN STEPS:
